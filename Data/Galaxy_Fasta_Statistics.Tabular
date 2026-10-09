@@ -1,0 +1,30 @@
+Scaffold L50	1
+Scaffold N50	152056
+Scaffold L90	1
+Scaffold N90	152056
+Scaffold len_max	152056
+Scaffold len_min	152056
+Scaffold len_mean	152056
+Scaffold len_median	152056
+Scaffold len_std	0
+Scaffold num_A	47405
+Scaffold num_T	47826
+Scaffold num_C	28007
+Scaffold num_G	28818
+Scaffold num_N	0
+Scaffold num_bp	152056
+Scaffold num_bp_not_N	152056
+Scaffold num_seq	1
+Scaffold GC content overall	37.37
+Contig L50	1
+Contig N50	152056
+Contig L90	1
+Contig N90	152056
+Contig len_max	152056
+Contig len_min	152056
+Contig len_mean	152056
+Contig len_median	152056
+Contig len_std	0
+Contig num_bp	152056
+Contig num_seq	1
+Number of gaps	0
